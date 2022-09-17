@@ -1,4 +1,7 @@
 # Arduino-snake-game
+
+September 29, 2021
+
 This is a [Viral Science project](https://www.viralsciencecreativity.com/post/arduino-snake-game-8x8-matrix-led-display-max7219). The user moves a joystick to play the Snake Game coded in an Arduino Uno displayed on a 8x8 Matrix LED display.
 
 ![image](https://user-images.githubusercontent.com/93152842/190842994-b9e4aad6-89aa-4d56-a4a4-73ea6bffbcfb.png)
