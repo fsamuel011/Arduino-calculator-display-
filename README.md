@@ -5,7 +5,7 @@ This is a [Viral Science project](https://www.viralsciencecreativity.com/post/ar
 
 [Demonstration](https://youtu.be/WSIv__09Fs8)
 
-## Parts kit
+## Parts list
 
 | Description | Quantity |
 | - | - |
@@ -14,7 +14,7 @@ This is a [Viral Science project](https://www.viralsciencecreativity.com/post/ar
 | Joystick | 1 |
 | 10k POT | 1 | 
 
-## Circuit Diagram
+## Schematic
 
 ![image](https://user-images.githubusercontent.com/93152842/190842870-a2814402-0f65-4550-8458-ab546f0744bd.png)
 
