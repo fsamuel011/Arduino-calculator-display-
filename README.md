@@ -10,7 +10,7 @@ This is a [Viral Science project](https://www.viralsciencecreativity.com/post/ar
 | Description | Quantity |
 | - | - |
 | Arduino Uno Rev3 | 1 |
-| 8x8 Matrix display | 1 |
+| 8x8 Matrix display MAX7219| 1 |
 | Joystick | 1 |
 | 10k POT | 1 | 
 
