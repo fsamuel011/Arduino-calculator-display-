@@ -3,6 +3,8 @@ This is a [Viral Science project](https://www.viralsciencecreativity.com/post/ar
 
 ![image](https://user-images.githubusercontent.com/93152842/190842994-b9e4aad6-89aa-4d56-a4a4-73ea6bffbcfb.png)
 
+[Demonstration](https://youtu.be/WSIv__09Fs8)
+
 ## Parts kit
 
 | Description | Quantity |
